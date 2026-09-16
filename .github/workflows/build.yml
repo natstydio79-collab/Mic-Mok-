@@ -51,4 +51,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: TikTokClone-APK
-          path: build/android-build/build/outputs/apk/release/*.apk
+          path: build/android-build/
